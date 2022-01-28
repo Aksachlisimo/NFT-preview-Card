@@ -40,7 +40,7 @@ i learned a lot about html and css , and i expand my knowledge on those 2 langua
 
 ### Continued development
 
-in the future , i wanna work on more of projects like this amazing one , so i'll be making more NFT cards 🖤.
+in the future , i wanna work on more of projects like this amazing one , so i'll be making more NFTs cards 🖤.
 
 
 ### Useful resources
