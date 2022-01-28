@@ -9,14 +9,14 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge))
+  - [The challenge](#the-challenge)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 
 ## Overview
@@ -35,39 +35,22 @@ it was a fun and a challenging project for me , it may looks easy but it's not t
 - CSS Grid
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+i learned a lot about html and css , and i expand my knowledge on those 2 languages , how to move text , how to make an horizental line, and how to make a card and play with it 😆 .
 
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+in the future , i wanna work on more of projects like this amazing one , so i'll be making more NFT cards 🖤.
 
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [stackoverflow](https://stackoverflow.com/) - a great ressource for coding if you feel stuck , you gonna find a lot of others coders resolving the same problem you encountered during your work on this project , so go check it out .
+- [w3schools](https://www.w3schools.com/) - This is an amazing article which helped me with a lot of html tags and css properties , you gonna find eveything you're looking for there so i highly recommend it to anyone if you stuck.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Aksachli_simo](https://aksachlisimo.github.io/My-Portfolio/)
+- Frontend Mentor - [@Aksachlisimo](https://www.frontendmentor.io/profile/Aksachlisimo)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
